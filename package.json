@@ -1,0 +1,16 @@
+{
+  "name": "hellovv",
+  "version": "1.0.0",
+  "description": "Hello VV Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/console.js"
+  },
+  "author": "Varun Vemala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  }
+}
